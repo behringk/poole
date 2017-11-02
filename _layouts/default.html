@@ -10,10 +10,7 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
-          {% for page in site.pages_list %}
-  &nbsp;&nbsp;&nbsp;
-  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-{% endfor %}
+          
         </h3>
       </header>
 
@@ -25,7 +22,7 @@
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
         </small>
-        <div style="float: right;"><a href="poole/about">About</a></div>
+        <div style="float: right;"><a href="about">About</a></div>
       </footer>
     </div>
 
