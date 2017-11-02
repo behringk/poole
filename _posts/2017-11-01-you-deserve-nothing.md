@@ -1,9 +1,7 @@
 ---
-layout: post-no-feature
-title: You Deserve Nothing…Sort Of
-description: "A common refrain in the business, productivity and self-help worlds is the idea that we deserve nothing. If we want something in life, we have to work for it."
+layout: post
+title: You Deserve Nothing...Sort Of
 ---
-
 
 On its face, this statement seems to make sense and succeeds in pushing back against the sense of entitlement that runs rampant in today’s society. It feels good to say, if you want something, you have to work for it. It feels good to say you deserve nothing because then, if you achieve *anything* you do it in your own power and get all the credit.
 
