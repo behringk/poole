@@ -8,6 +8,10 @@ url:                 http://behringk.github.io/poole/
 paginate:            5
 baseurl:             "/poole/"
 
+pages_list:       
+  About: '/about'
+
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
