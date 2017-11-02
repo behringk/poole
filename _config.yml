@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+url:                 http://behringk.github.io/poole/
+paginate:            5
+baseurl:             "/poole/"
 
 # Assets
 #
